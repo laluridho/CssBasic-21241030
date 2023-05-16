@@ -1,0 +1,87 @@
+h1 {
+  color: hsl(60, 82%, 59%);
+  text-transform: uppercase;
+  letter-spacing: spacing 5px;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.Autor {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+
+}
+
+body {
+  background-color: grey;
+  background-image: url(logo\ mpl\ ph.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+
+}
+
+p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: justify;
+  text-indent: 20px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+
+h3,h4 {
+color: rgb(54, 54, 224);
+font-family: 'Oswald-Regular', sans-serif;
+}
+.boleh{
+  color: blue;
+  text-transform: uppercase;
+}
+.ngakBoleh{
+  color: rgba(240, 15, 15, 0.959);
+  text-transform: uppercase;
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url(https://fonts.google.com/specimen/Montserrat?query=mo)format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face{
+  font-family:'Oswald' ;
+  src: url(https://fonts.google.com/specimen/Oswald);
+  font-style: normal;
+  font-weight: normal;
+}
+.officialSite:hover{
+  color: yellow;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.officialSite:active{
+  font-style:italic ;
+}
+.officialSite:visited{
+  color:red;
+}
+.pengertianMpl:hover{
+  color: yellow;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+ol li  {
+  color:yellow;
+  }
+
+
+.baca{
+  color: red;
+}
+
+ul {
+  color: black;
+  text-decoration: underline;
+}

@@ -1,0 +1,7 @@
+body{
+  background-color: antiquewhite;
+  background-image: url(download\ \(1\).jpeg);
+  /*valuenya bisa diganti-ganti*/
+  background-repeat: no-repeat;
+  /*background-position: center center;*/
+}
